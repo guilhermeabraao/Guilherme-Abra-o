@@ -5,7 +5,7 @@
 
 
 
-- 🌱 Estou finalizando meu curso de **web FullStack pela Cubos Academy**
+- 🌱 Me especializei em **web FullStack pela Cubos Academy**
 
 - 📫 também pode me encontrar no LinkedIn [https://www.linkedin.com/in/guilherme-oliveira-53b32b73/](https://www.linkedin.com/in/guilherme-oliveira-53b32b73/)
 

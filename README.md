@@ -9,7 +9,6 @@
 
 - 📫 também pode me encontrar no LinkedIn [https://www.linkedin.com/in/guilherme-oliveira-53b32b73/](https://www.linkedin.com/in/guilherme-oliveira-53b32b73/)
 
-- 👨‍💻 todos os meus projetos estão disponíveis em [https://guilhermeabraao.github.io/](https://guilhermeabraao.github.io/)
 
 - 💬 E já pensando nas próximas tecnologias que quero estudar, como **VueJs, Angular e Python**
 
